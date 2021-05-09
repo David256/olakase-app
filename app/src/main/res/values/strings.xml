@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ola K Ase</string>
+
+    <string name="text_welcome">Ola k ase</string>
+    <string name="sum_up">Sum +1</string>
+    <string name="sum_down">Sum -1</string>
+</resources>
